@@ -1,3 +1,4 @@
+Here is a new first bit of text.
 Here is another file.
 You forgot to put in a middle line.
 Here is a new second line.
